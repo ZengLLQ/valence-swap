@@ -1,0 +1,11 @@
+# Foundry outputs
+out/
+cache/
+
+# Node modules / dependencies
+node_modules/
+lib/forge-std/lib/
+
+# OS metadata
+.DS_Store
+Thumbs.db
